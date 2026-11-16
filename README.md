@@ -1,6 +1,7 @@
 ﻿# University Course Registration and Academic Management System
  
 **Student:** ukwishaka sandrine  **Registration No.:** 27672
+
 **Scope:** Model and Repository layers
 
 ## Tech stack
