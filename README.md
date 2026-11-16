@@ -27,7 +27,9 @@ Department, Student, StudentProfile, Lecturer, Course, Registration.
 | Department – Student | 1 : N | FK `department_id` in students |
 | Student – StudentProfile | 1 : 1 | FK `student_id` (unique) in student_profiles |
 | Lecturer – Course | M : N | Join table `lecturer_courses` (no entity) |
-| Student – Course | M : N | Join entity `Registration` |
+| Student – Course | M : N | Join entity `Registration` |<img width="1510" height="1191" alt="Untitled" src="https://github.com/user-attachments/assets/ca6dede5-9063-4523-9d46-ec86c907b1c3" />
+
+
 
 ## Repository contents
 
