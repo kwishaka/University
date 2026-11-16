@@ -1,6 +1,5 @@
 ﻿# University Course Registration and Academic Management System
-
-**Course:** Web Technology and Internet: Individual Assignment
+ 
 **Student:** ukwishaka sandrine  **Registration No.:** 27672
 **Scope:** Model and Repository layers
 
